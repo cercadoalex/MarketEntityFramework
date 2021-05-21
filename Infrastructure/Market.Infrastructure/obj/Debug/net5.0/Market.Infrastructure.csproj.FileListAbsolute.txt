@@ -1,0 +1,17 @@
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\bin\Debug\net5.0\Market.Infrastructure.deps.json
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\bin\Debug\net5.0\Market.Infrastructure.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\bin\Debug\net5.0\ref\Market.Infrastructure.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\bin\Debug\net5.0\Market.Infrastructure.pdb
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\obj\Debug\net5.0\Market.Infrastructure.csprojAssemblyReference.cache
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\obj\Debug\net5.0\Market.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\obj\Debug\net5.0\Market.Infrastructure.AssemblyInfoInputs.cache
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\obj\Debug\net5.0\Market.Infrastructure.AssemblyInfo.cs
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\obj\Debug\net5.0\Market.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\obj\Debug\net5.0\Market.Infrastructure.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\obj\Debug\net5.0\ref\Market.Infrastructure.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\obj\Debug\net5.0\Market.Infrastructure.pdb
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\bin\Debug\net5.0\Market.Domain.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\bin\Debug\net5.0\Market.Persistance.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\bin\Debug\net5.0\Market.Domain.pdb
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\bin\Debug\net5.0\Market.Persistance.pdb
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Infrastructure\Market.Infrastructure\obj\Debug\net5.0\Market.Infrastructure.csproj.CopyComplete

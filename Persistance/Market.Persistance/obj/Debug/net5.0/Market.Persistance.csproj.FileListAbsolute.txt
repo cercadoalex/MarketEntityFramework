@@ -1,0 +1,15 @@
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\bin\Debug\net5.0\Market.Persistance.deps.json
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\bin\Debug\net5.0\Market.Persistance.runtimeconfig.json
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\bin\Debug\net5.0\Market.Persistance.runtimeconfig.dev.json
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\bin\Debug\net5.0\Market.Persistance.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\bin\Debug\net5.0\ref\Market.Persistance.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\bin\Debug\net5.0\Market.Persistance.pdb
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\obj\Debug\net5.0\Market.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\obj\Debug\net5.0\Market.Persistance.AssemblyInfoInputs.cache
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\obj\Debug\net5.0\Market.Persistance.AssemblyInfo.cs
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\obj\Debug\net5.0\Market.Persistance.csproj.CoreCompileInputs.cache
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\obj\Debug\net5.0\Market.Persistance.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\obj\Debug\net5.0\ref\Market.Persistance.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\obj\Debug\net5.0\Market.Persistance.pdb
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\obj\Debug\net5.0\Market.Persistance.genruntimeconfig.cache
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Persistance\Market.Persistance\obj\Debug\net5.0\Market.Persistance.csprojAssemblyReference.cache

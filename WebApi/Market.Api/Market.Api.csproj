@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\Market.Infrastructure\Market.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Persistance\Market.Persistance\Market.Persistance.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\bin\Debug\net5.0\Market.Domain.deps.json
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\bin\Debug\net5.0\Market.Domain.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\bin\Debug\net5.0\ref\Market.Domain.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\bin\Debug\net5.0\Market.Domain.pdb
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\obj\Debug\net5.0\Market.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\obj\Debug\net5.0\Market.Domain.AssemblyInfoInputs.cache
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\obj\Debug\net5.0\Market.Domain.AssemblyInfo.cs
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\obj\Debug\net5.0\Market.Domain.csproj.CoreCompileInputs.cache
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\obj\Debug\net5.0\Market.Domain.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\obj\Debug\net5.0\ref\Market.Domain.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\obj\Debug\net5.0\Market.Domain.pdb
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\bin\Debug\net5.0\Market.Persistance.dll
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\bin\Debug\net5.0\Market.Persistance.pdb
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\obj\Debug\net5.0\Market.Domain.csprojAssemblyReference.cache
+D:\CRUD_ENTITY_FRAMEWORK\ProjectMarket\Domain\Market.Domain\obj\Debug\net5.0\Market.Domain.csproj.CopyComplete
